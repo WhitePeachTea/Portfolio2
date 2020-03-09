@@ -1,3 +1,3 @@
 # Portfolio-Update
 
-! Deployment on Github page (https://whitepeachtea.github.io/Portfolio2/)
+! [Deployment on Github page] (https://whitepeachtea.github.io/Portfolio2/)
